@@ -1,0 +1,24 @@
+1002
+250
+Melo
+Senior
+Biology
+3.3
+
+
+6676
+500
+Nala
+Senior
+Data Analytics
+3.5
+
+
+8003
+500
+Sara
+Sophomore
+Computer Science
+3
+
+
